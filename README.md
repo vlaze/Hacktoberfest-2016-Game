@@ -29,7 +29,7 @@ There would be three items which represent special moves.
 3. Provide hint of the opponents tile positions.
 Each move can be used only once.
 
-Note:
+**Note:**
 
 1. Instead of classic chessboard tiles, Digital Ocean's cloud logo with different colours could be used.
 2. Hacktoberfest stickers could be used to represent the special move indicators.
